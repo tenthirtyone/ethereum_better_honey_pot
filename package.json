@@ -1,0 +1,31 @@
+{
+  "name": "better_honey_pot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenthirtyone/better_honey_pot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenthirtyone/better_honey_pot/issues"
+  },
+  "homepage": "https://github.com/tenthirtyone/better_honey_pot#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "ganache-cli": "^6.0.3",
+    "truffle": "^4.0.6"
+  },
+  "devDependencies": {
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2"
+  }
+}
